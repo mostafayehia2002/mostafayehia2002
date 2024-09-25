@@ -1,17 +1,71 @@
-# Hello! I'm Mostafa Yehia 👋
+# 👋 Hello! I'm Mostafa Yehia
 
-I'm a back-end developer specialized in PHP and Laravel. I have a passion for building robust and scalable web applications. Check out some of my featured projects below:
+I'm a passionate **Back-End Developer** with a strong focus on **PHP** and **Laravel**. I have experience working on diverse projects ranging from e-commerce platforms to education management systems. I'm constantly learning and seeking to contribute to innovative and impactful projects.
 
-## Projects:
-- [SchoLink - School Management System](https://github.com/mostafayehia2002/Scholink)
-- [El Mamalek E-Commerce](https://king2game.com)
-- [Multi-Vendor Restaurant System](https://github.com/mostafayehia2002/4-Sofra/tree/master)
-- [Invoice Management System](https://github.com/mostafayehia2002/2-Invoices)
-- [E-Shopper](https://github.com/mostafayehia2002/1-E-Shopper)
+## 🚀 Career Objective
+Motivated back-end developer with expertise in PHP and Laravel, also skilled in front-end technologies like HTML5, CSS3, and JavaScript. My goal is to leverage my technical skills in a dynamic environment to create innovative web applications.
 
-## Skills:
-- **Backend**: PHP, Laravel
-- **Frontend**: HTML5, CSS3, JavaScript, jQuery
-- **Databases**: MySQL, SQL
+## 🎓 Education
+**Bachelor’s Degree in Computer Science**  
+Faculty of Computers and Information, Menofia University (Sep 2020 – Jul 2024)  
+- **Overall GPA**: 2.65/4.0  
+- **Graduation Project**: SchoLink (Grade A+)
 
-Let's connect on [LinkedIn](https://www.linkedin.com/in/mostafa-yehia-84456a235) or shoot me an email at [gad993813@gmail.com](mailto:gad993813@gmail.com).
+## 💼 Professional Experience
+**Freelance Back-End Developer** (May 2022 – Aug 2023)  
+- Developed a variety of web applications with a focus on backend functionality and API development.
+- Skilled in managing projects, communicating with clients, and delivering high-quality outcomes in various domains.
+
+## 🌟 Projects
+
+### [SchoLink Graduation Project](https://github.com/mostafayehia2002/Scholink) | Laravel, API, MySQL (Jul 2024)
+- Developed a school management system with real-time features like live chat and notifications.
+- Enabled students, parents, and teachers to access educational resources and communicate seamlessly.
+
+### [El Mamalek E-Commerce](https://king2game.com) | Laravel, jQuery, MySQL (Jan 2024)
+- Created a responsive and user-friendly website for online shopping with full admin control over products and orders.
+- Enhanced the shopping experience by implementing easy navigation and intuitive product management.
+
+### [Multi-Vendor Restaurant System](https://github.com/mostafayehia2002/4-Sofra) | Laravel, PHP, API, MySQL (Nov 2023)
+- Built a system for managing orders from multiple restaurants and provided APIs for user-restaurant communication.
+- Designed an admin dashboard to track restaurant performance in real-time.
+
+### [Invoice Management System](https://github.com/mostafayehia2002/2-Invoices) | Laravel, jQuery, AJAX, MySQL (Oct 2023)
+- Developed a system to track and categorize invoices and manage user permissions based on roles.
+
+### [E-Shopper](https://github.com/mostafayehia2002/1-E-Shopper) | Laravel, jQuery, AJAX, MySQL (Sep 2023)
+- Created an e-commerce platform with a smooth shopping cart experience and easy-to-manage admin panel.
+
+### [Credit Hour-Based College System](https://github.com/mostafayehia2002/SW-Project) | PHP, jQuery, AJAX, MySQL (May 2023)
+- Developed a system to handle scheduling, course management, and role-based access control for faculty.
+
+## 📚 Internship Experience
+**Information Technology Institute (iTi) – Back-End Laravel Developer**  
+- Certified in Laravel Framework (Jul 2023 – Aug 2023)  
+
+**Information Technology Institute (iTi) – Front-End Developer**  
+- Certified in Front-End Development (Jul 2022 – Aug 2022)
+
+## 🛠️ Technical Skills
+- **Languages**: PHP, JavaScript
+- **Front-End**: HTML5, CSS3, Bootstrap, jQuery, Livewire
+- **Back-End**: Laravel Framework
+- **Databases**: SQL, MySQL
+- **Tools**: Git, GitHub, Postman, VS Code, PHPStorm, NetBeans
+- **Real-Time Communication**: WebSocket, Livewire
+- **Version Control**: Git, GitHub
+
+## 🗣️ Languages
+- **Arabic**: Native
+- **English**: Proficient
+
+## 📞 Contact Information
+- **Email**: [gad993813@gmail.com](mailto:gad993813@gmail.com)
+- **Phone**: +201226717838
+- **Location**: Menofia, Egypt
+- **LinkedIn**: [Mostafa Yehia](https://www.linkedin.com/in/mostafa-yehia-84456a235)
+- **GitHub**: [mostafayehia2002](https://github.com/mostafayehia2002)
+
+---
+
+Feel free to check out my [GitHub repositories](https://github.com/mostafayehia2002) to see more of my work and contributions!
