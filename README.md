@@ -8,7 +8,7 @@ Motivated back-end developer with expertise in PHP and Laravel, also skilled in 
 ## 🎓 Education
 **Bachelor’s Degree in Computer Science**  
 Faculty of Computers and Information, Menofia University (Sep 2020 – Jul 2024)  
-- **Overall GPA**: 2.65/4.0  
+- **Overall GPA**: 2.64/4.0  
 - **Graduation Project**: SchoLink (Grade A+)
 
 ## 💼 Professional Experience
