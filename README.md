@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello! I'm Mostafa Yehia 👋
 
-<!--
-**mostafayehia2002/mostafayehia2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a back-end developer specialized in PHP and Laravel. I have a passion for building robust and scalable web applications. Check out some of my featured projects below:
 
-Here are some ideas to get you started:
+## Projects:
+- [SchoLink - School Management System](https://github.com/mostafayehia2002/Scholink)
+- [El Mamalek E-Commerce](https://king2game.com)
+- [Multi-Vendor Restaurant System](https://github.com/mostafayehia2002/4-Sofra/tree/master)
+- [Invoice Management System](https://github.com/mostafayehia2002/2-Invoices)
+- [E-Shopper](https://github.com/mostafayehia2002/1-E-Shopper)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills:
+- **Backend**: PHP, Laravel
+- **Frontend**: HTML5, CSS3, JavaScript, jQuery
+- **Databases**: MySQL, SQL
+
+Let's connect on [LinkedIn](https://www.linkedin.com/in/mostafa-yehia-84456a235) or shoot me an email at [gad993813@gmail.com](mailto:gad993813@gmail.com).
