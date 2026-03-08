@@ -33,7 +33,7 @@ Faculty of Computers and Information, Menofia University (Sep 2020 – Jul 2024)
 - Designed RESTful APIs, real-time notifications, and search optimization.
 - Integrated Google Maps for property visualization
 -	Live Demo: (https://Stark.sa)
--	
+  
 ### [SchoLink Graduation Project](https://github.com/mostafayehia2002/Scholink) | Laravel, API, MySQL (Jul 2024)
 - Developed a school management system with real-time features like live chat and notifications.
 - Enabled students, parents, and teachers to access educational resources and communicate seamlessly.
