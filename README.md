@@ -15,16 +15,33 @@ Faculty of Computers and Information, Menofia University (Sep 2020 – Jul 2024)
 **Freelance Back-End Developer** (May 2022 – Aug 2023)  
 - Developed a variety of web applications with a focus on backend functionality and API development.
 - Skilled in managing projects, communicating with clients, and delivering high-quality outcomes in various domains.
+### Backend Expertise
+- RESTful API Development 
+- Authentication & Authorization
+- Payment Gateway 
+- Database Design & Optimization
+- Real-time Communication Systems
 
 ## 🌟 Projects
-
+### [Payment Integration Course](https://youtube.com/@mostafayehia2002) |Laravel, APIs ( Nov-2024 – May-2025)          
+- Created a technical YouTube course explaining how to integrate payment gateways in web applications.         
+- Demonstrated payment APIs, authentication, and secure transactions.
+- YouTube Course: youtube.com/@mostafayehia2002
+  
+### [Stark Brokers](https://github.com/mostafayehia2002/starkbrokers) | Laravel, API, MySQL, React Framework	Jan-2025
+- Developed a real estate rental platform with property listing and communication features.
+- Designed RESTful APIs, real-time notifications, and search optimization.
+- Integrated Google Maps for property visualization
+-	Live Demo: (https://Stark.sa)
+-	
 ### [SchoLink Graduation Project](https://github.com/mostafayehia2002/Scholink) | Laravel, API, MySQL (Jul 2024)
 - Developed a school management system with real-time features like live chat and notifications.
 - Enabled students, parents, and teachers to access educational resources and communicate seamlessly.
 
-### [El Mamalek E-Commerce](https://king2game.com) | Laravel, jQuery, MySQL (Jan 2024)
+### [El Mamalek E-Commerce](https://github.com/mostafayehia2002/ElMamalek) | Laravel, jQuery, MySQL (Jan 2024)
 - Created a responsive and user-friendly website for online shopping with full admin control over products and orders.
 - Enhanced the shopping experience by implementing easy navigation and intuitive product management.
+- Live Demo:(https://king2game.com)
 
 ### [Multi-Vendor Restaurant System](https://github.com/mostafayehia2002/4-Sofra) | Laravel, PHP, API, MySQL (Nov 2023)
 - Built a system for managing orders from multiple restaurants and provided APIs for user-restaurant communication.
@@ -61,11 +78,10 @@ Faculty of Computers and Information, Menofia University (Sep 2020 – Jul 2024)
 
 ## 📞 Contact Information
 - **Email**: [gad993813@gmail.com](mailto:gad993813@gmail.com)
-- **Phone**: +201226717838
+- **Phone**: [Mostafa yehia](https://wa.me/+201226717838)
 - **Location**: Menofia, Egypt
-- **LinkedIn**: [Mostafa Yehia](https://www.linkedin.com/in/mostafa-yehia-84456a235)
+- **LinkedIn**: [Mostafa Yehia](https://www.linkedin.com/in/mostafayehia2002)
 - **GitHub**: [mostafayehia2002](https://github.com/mostafayehia2002)
 
 ---
-
 Feel free to check out my [GitHub repositories](https://github.com/mostafayehia2002) to see more of my work and contributions!
