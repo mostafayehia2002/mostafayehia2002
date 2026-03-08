@@ -3,7 +3,7 @@
 I'm a passionate **Back-End Developer** with a strong focus on **PHP** and **Laravel**. I have experience working on diverse projects ranging from e-commerce platforms to education management systems. I'm constantly learning and seeking to contribute to innovative and impactful projects.
 
 ## 🚀 Career Objective
-Motivated back-end developer with expertise in PHP and Laravel, also skilled in front-end technologies like HTML5, CSS3, and JavaScript. My goal is to leverage my technical skills in a dynamic environment to create innovative web applications.
+Backend Developer specializing in PHP and Laravel with experience building scalable web applications, RESTful APIs, and real-time systems. Focused on performance optimization and clean architecture.
 
 ## 🎓 Education
 **Bachelor’s Degree in Computer Science**  
@@ -26,7 +26,7 @@ Faculty of Computers and Information, Menofia University (Sep 2020 – Jul 2024)
 ### [Payment Integration Course](https://youtube.com/@mostafayehia2002) |Laravel, APIs ( Nov-2024 – May-2025)          
 - Created a technical YouTube course explaining how to integrate payment gateways in web applications.         
 - Demonstrated payment APIs, authentication, and secure transactions.
-- YouTube Course: youtube.com/@mostafayehia2002
+- YouTube Course:(https://youtube.com/@mostafayehia2002)
   
 ### [Stark Brokers](https://github.com/mostafayehia2002/starkbrokers) | Laravel, API, MySQL, React Framework	Jan-2025
 - Developed a real estate rental platform with property listing and communication features.
