@@ -1,10 +1,8 @@
 # Hi, I'm Mostafa Yehia Gad 👋
 **Backend Developer (PHP-Laravel)**
 
-📧 gad993813@gmail.com  
-📞 +201226717838  
-📍 Menoufia, Egypt  
-
+📧 [Gmail](mailto:gad993813@gmail.com)  
+📞 [whatsApp](https://wa.me/+201226717838)
 💻 [GitHub](https://github.com/mostafayehia2002)  
 🔗 [LinkedIn](https://linkedin.com/in/mostafayehia2002)  
 ▶ [YouTube](https://youtube.com/@mostafayehia2002)  
