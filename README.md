@@ -73,10 +73,9 @@ Backend Developer specializing in **PHP and Laravel** with hands-on experience b
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mostafayehia2002&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mostafayehia2002&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafayehia2002&layout=compact&theme=tokyonight&cache_seconds=1800)
-
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mostafayehia2002&layout=compact&theme=tokyonight)
 ---
 
 ## 🌐 Languages
