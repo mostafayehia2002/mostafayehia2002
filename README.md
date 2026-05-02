@@ -73,10 +73,9 @@ Backend Developer specializing in **PHP and Laravel** with hands-on experience b
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mostafayehia2002&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafayehia2002&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mostafayehia2002&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafayehia2002&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
